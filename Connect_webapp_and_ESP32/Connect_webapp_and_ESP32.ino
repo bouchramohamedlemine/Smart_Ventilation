@@ -44,8 +44,8 @@ uint64_t last_tx = 0;
 uint64_t tx_time;
 uint64_t minimum_pause;
 
-const char* ssid = "Glide_Resident";
-const char* pass = "BuckColdFive";
+const char* ssid = "" // Wifi name;
+const char* pass = "" // Wifi password;
 const char* mqtt_server = "broker.hivemq.com";
 
 const int buzzerPin = 48; // the pin to which the buzzer is connected
