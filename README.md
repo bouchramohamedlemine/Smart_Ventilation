@@ -1,9 +1,3 @@
-# Website showing real-time data:
-https://smart-ventilation-control-iot.onrender.com/
-
-
-=====================================
-
 # Smart Ventilation System
 
 ## Overview
